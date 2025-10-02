@@ -295,7 +295,7 @@
 <translation id="7561014039265304140"><ph name="DISPLAY_NAME" /> doesn't support <ph name="SPECIFIED_RESOLUTION" />. The resolution was changed to <ph name="FALLBACK_RESOLUTION" /></translation>
 <translation id="7562368315689366235">Emoji palette</translation>
 <translation id="7564874036684306347">Moving windows to another desktop may result in unexpected behaviour. Subsequent notifications, windows and dialogues may be split between desktops.</translation>
-<translation id="7569509451529460200">Braille and KiwiVox are enabled</translation>
+<translation id="7569509451529460200">Braille and WhaleVox are enabled</translation>
 <translation id="7593891976182323525">Search or Shift</translation>
 <translation id="7645176681409127223"><ph name="USER_NAME" /> (owner)</translation>
 <translation id="7647488630410863958">Unlock device to view your notifications</translation>
